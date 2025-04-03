@@ -1,2 +1,2 @@
-#demo
-this is a testing and learning environment
+#DEMO
+this is a testing and learning environment NOW
